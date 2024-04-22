@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+}
+
+header {
+    background-color: black;
+}
+
+header ul {
+    list-style-type: none;
+}
+
+header li {
+    display: inline;
+    margin-right: 10px;
+}
+
+header a {
+    color: maroon;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
